@@ -1,4 +1,4 @@
-## Use how to
+## How to use 
 
 image build => make build  
 container run => make run => open 127.0.0.1:3000  
